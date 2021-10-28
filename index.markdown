@@ -11,7 +11,7 @@ permalink: /
 Welcome to the official documentation for the JVerify API!
 {: .fs-6 .fw-300 }
 
-## JVerify is in beta! [Read the announcement]()
+## JVerify is in beta! [Read the announcement](beta-announcement)
 
 ---
 
